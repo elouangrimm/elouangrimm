@@ -29,6 +29,10 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elouangrimm&theme=android-dark" alt="elouangrimm" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=elouangrimm&theme=discord" alt="elouangrimm" /></p>
+
+<br>
+
 ### Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqdtkir252o7vnm3fncd7x7fu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://volt.fm/elouangrimm)
