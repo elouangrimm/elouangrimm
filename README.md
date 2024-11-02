@@ -8,7 +8,8 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 <br>
 
-## Contact Me
+<details>
+<summary><h2>Socials & Contact Me</h2></summary>
 
 #### [💬 Discord](https://discord.com/users/939697576419131462)
 
@@ -19,6 +20,7 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 #### [✉︎ Email](mailto:elouangrimm@gmail.com)
 
 #### [🤖 Reddit](https://www.reddit.com/user/elouangrimm/)
+</details>
 
 <br>
 <br>
