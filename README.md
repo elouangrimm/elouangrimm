@@ -6,6 +6,13 @@
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/)!
 
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,htmx,py,md,discord,bots,gmail,instagram,ps,godot,replit,vscode,github,git,linux,raspberrypi&perline=9" />
+  </a>
+</p>
+
 <br>
 
 <details>
@@ -20,10 +27,10 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 #### [✉︎ Email](mailto:elouangrimm@gmail.com)
 
 #### [🤖 Reddit](https://www.reddit.com/user/elouangrimm/)
+<br>
 </details>
 
-<br>
-<br>
+## Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elouangrimm&show_icons=true&theme=dark&locale=en" alt="elouangrimm" /></p>
 
