@@ -6,7 +6,9 @@
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/)!
 
-## Skills
+<br>
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,htmx,py,md,discord,bots,gmail,instagram,ps,godot,replit,vscode,github,git,linux,raspberrypi&perline=9" />
