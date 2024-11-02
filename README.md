@@ -4,12 +4,15 @@
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/)!
 
-#### [Discord 💬](https://discord.com/users/939697576419131462)
+#### [💬 Discord](https://discord.com/users/939697576419131462)
 
-#### [Insta 📸](https://www.instagram.com/elouangrimm)
+#### [📸 Insta](https://www.instagram.com/elouangrimm)
 
-#### [WhatsApp 💬](https://wa.me/19712661720)
+#### [💬 WhatsApp](https://wa.me/19712661720)
 
-#### [Email ✉︎](mailto:elouangrimm@gmail.com)
+#### [✉︎ Email](mailto:elouangrimm@gmail.com)
 
-#### [Reddit 🤖](https://www.reddit.com/user/elouangrimm/)
+#### [🤖 Reddit](https://www.reddit.com/user/elouangrimm/)
+
+### Visitor Count:
+<img src="https://profile-counter.glitch.me/elouangrimm/count.svg" />
