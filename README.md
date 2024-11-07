@@ -18,7 +18,7 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 <br>
 
-<details>
+<details open>
 <summary><h2>Socials & Contact Me</h2></summary>
 
 #### [💬 Discord](https://discord.com/users/939697576419131462)
@@ -43,8 +43,9 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 <br>
 
-### Now Playing
+<details open>
+<summary><h2>Now Playing</h2></summary>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqdtkir252o7vnm3fncd7x7fu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://volt.fm/elouangrimm)
-
+</details>
 </details>
