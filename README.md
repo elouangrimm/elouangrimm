@@ -1,10 +1,12 @@
 <h1 align="center">Hey! 👋 I'm Elouan Grimm!</h1>
 
-<a href="https://github.com/elouangrimm/"><p align="left"> <img src="https://komarev.com/ghpvc/?username=elouangrimm&label=Profile%20views&color=0e75b6&style=flat" alt="elouangrimm" /> </p></a>
+<a href="https://github.com/elouangrimm/"><img src="https://komarev.com/ghpvc/?username=elouangrimm&label=Profile%20views&color=0e75b6&style=flat" alt="elouangrimm"/></a>
+
 <a href="https://www.reddit.com/user/elouangrimm/"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/elouangrimm?style=flat"></a>
+
 <a href="https://elouangrimm.github.io/"><img alt="Website Status" src="https://img.shields.io/website?url=http%3A//elouangrimm.github.io/"></a>
 
-**Hi, I’m Elouan Grimm and I love messing around with tech.** I helped [Epimetheus Games](https://epimetheusgamesogpc.itch.io/) out with their first two games, [EyeSore](https://epimetheusgamesogpc.itch.io/eyesore) and [Project Prometheus](https://epimetheusgamesogpc.itch.io/projectprometheus) (you can check em out on [itch](https://epimetheusgamesogpc.itch.io/)). I have been helping out with [@MoeBazziGIT](https://github.com/MoeBazziGIT)'s [Tidy Tab Groups project](https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf) (Hey! Join the Discord [HERE](https://discord.com/invite/aBdAfNfGEv)!!!) I live in Cape Town and speak French and English fluently. I love photography and I take pictures with my crappy phone and post them on [Insta](https://www.instagram.com/elouangrimm). Cheers!
+**Hi, I’m Elouan Grimm, I'm 13, and I love messing around with tech.** I helped [Epimetheus Games](https://epimetheusgamesogpc.itch.io/) out with their first two games, [EyeSore](https://epimetheusgamesogpc.itch.io/eyesore) and [Project Prometheus](https://epimetheusgamesogpc.itch.io/projectprometheus) (you can check em out on [itch](https://epimetheusgamesogpc.itch.io/)). I have been helping out with [@MoeBazziGIT](https://github.com/MoeBazziGIT)'s [Tidy Tab Groups project](https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf) (Hey! Join the Discord [HERE](https://discord.com/invite/aBdAfNfGEv)!!!) I live in Cape Town and speak French and English fluently. I love photography and I take pictures with my crappy phone and post them on [Insta](https://www.instagram.com/elouangrimm). Cheers!
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/) (You are here right now! Explore around and follow me!)
 
