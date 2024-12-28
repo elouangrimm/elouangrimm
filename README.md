@@ -24,6 +24,8 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 <details open>
 <summary><h2>Socials & Contact Me</h2></summary>
 
+#### [🦋 Bluesky](https://bsky.app/profile/elouan.xyz/)
+
 #### [💬 Discord](https://discord.com/users/939697576419131462)
 
 #### [📸 Insta](https://www.instagram.com/elouangrimm)
@@ -33,7 +35,6 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 #### [✉︎ Email](mailto:elouangrimm@gmail.com)
 
 #### [🤖 Reddit](https://www.reddit.com/user/elouangrimm/)
-<br>
 </details>
 
 <details open>
