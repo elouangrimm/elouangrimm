@@ -40,6 +40,9 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 <details open>
 <summary><h2>Stats</h2></summary>
 <br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elouangrimm&theme=dark) 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elouangrimm&show_icons=true&theme=dark&locale=en" alt="elouangrimm" /></p>
 
 <!-- <a href="https://elouangrimm.github.io"><img src="https://streak-stats.demolab.com?user=elouangrimm&theme=material&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&stroke=79FF97&background=151515&ring=79FF97&currStreakNum=79FF97&fire=4FFF66&dates=79FF97&sideNums=79FF97&border=79FF97&currStreakLabel=79FF97&sideLabels=79FF97&excludeDaysLabel=79FF97" alt="GitHub Streak" /></a> -->
