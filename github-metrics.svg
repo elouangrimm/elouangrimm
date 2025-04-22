@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.09m added, 1.63m removed
+                                    1.40m added, 659k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.1511894016796" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="273.1511894016796" y="0" width="138.6838261537821" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="411.83501555546167" y="0" width="23.383107304894203" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.2181228603559" y="0" width="12.351531848691057" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.569654709047" y="0" width="4.6788801045954145" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="452.2485348136424" y="0" width="4.147465984446801" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="456.3960007980892" y="0" width="2.1129709479534227" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="458.5089717460426" y="0" width="1.4910282539574415" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.9576212338023" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="272.9576212338023" y="0" width="138.9115263633875" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="411.86914759718985" y="0" width="23.366536902070038" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.2356844992599" y="0" width="12.342778954751017" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.5784634540109" y="0" width="4.675564423446276" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="452.25402787745713" y="0" width="4.144526889091949" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="456.39855476654907" y="0" width="2.1114735943593597" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="458.51002836090845" y="0" width="1.489971639091499" height="8" fill="#a53b70"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -317,6 +317,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAYDBQACBwH/xAA9EAABAwIEAgYGCAUFAAAAAAABAgMEBREABhIhMUETFFFhgdIWIiQycZQHFSNjdZGx8DNCocHRUlOEleH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5yfqGkZSy1Kl5Zaq06pNynHn3ajJYt0clbaQA2oD3QBw5X344ENby5yyJCJ/GZ3nxJmBsryRkfSbIEeoXP8AzXMLITt6uyRxPbgGI1zLm1shwifxqd58Z9eZbuLZDhX/ABmd58LdtiRsn9cYAdrCwPDAMhrmXNrZDhf91O8+D403LiwlxWRYpav6xbrE0lPhrwrxGTrsDpd5BQ2OLeGn7QmOeglAbtq91Y/vgHNNborNNCYmU4suBb10GoylrHcApZv+/jgTNlOiUrMcyHRpSokJKWFojKdU50RWw2sjUtRVxUTuTxxQhWtTiovsk4J9ZpXuuf5/fxxf/SOqCc61DrLCkuhqJqI21eysm/HfjbwwFDmAI9CsjqeuCGJ9mgfevNc5fvjgbK9OgznqnLra1Cl0eL1qRHYXpceJBKGUnle26uIGwsTcH1zX6H5KQE9K70E67nED2xz+v+MK2cWEsyI6GHSNbCVyEpbLZuTcA/67DTYntIGwBID1DOE9159EeBRYMRSriI1S4y0psBa6loUpR53USf0xLDnRKsXCYiIs8JK+jYUQy8kXKilJJ0LA3sDpIGwSRZSqseta4NuY54kjKUh1KkmxHA9hwHU8sUqDODaJYkvxy068+6zsqKlCSqwBFlK9W+5AAUAbEp1VsvNdARSmmWcsJkyEKPtUyqPqcUORs10QBtbtxLnOtzKNlui0qn9GwKhTWZcqQ0LOOpdJcDZPJIJUCP5tAJuLJwgNNh4KIIT/AGPZ8MA/SanSKpAaejiSwFBaXG3VhS4yxuLOC2pBvsbAi1jfiWX6RXpSM5zgllLqOhiaVAm5HVWePjfCBlpthFPqbzrS5DwQEMISqyUkrBcJB4nSCAO04dvpBCl5yqCmZYSC1Eug76T1Rnbu5fngGKtMwUZdo7TDLSEJYfS33FTyySO+5OONVWOvr7r7iiS84U77m5F7nxAPjjqVXUr6koBVwUy9/R9YwtVKnIltkJICr6htzBwHN5LSkLJKCm/EHbEQSVpUE7Eg/n+zhxl0KTouNJ7LHArVEf1DUn/zAHVClOVR56StgtpeIWix30EDRe/YLW/LbAlNyzI6z9qoNsjiSN1Ad2GiCwpDSQV7e6N+I7+/Bmk6bEgd+A1bRJQwxHPROtNNJabJSPVQkWA/T9eOLLOcTrGY5LrrUUrU2xclkKJsy2OPhgFS19GTquMXGbZPR199JI2aY5fct4AWrOj0ey6Daxakc/v14p+kRf3wPHBMTMlVhQWY0aS2lhrVoQqO0vTc6jYqSTxUeePFZsrSlkGUx8kx5MBD1hCAACCPjj0PIXfSAPHBSMy1VfvSGflGfJjVzMtVChZ9n5Vny4AYW1FQUB3Y2TICyQq1rYNRmarab9YZ+UZ8mNvSarf77HyjPkwADjqdCgFJAF8XOdN8yySLfwo/L7hvARzTWAu3WWPkmPJisqVTlTZrkmW50j7ltS7BN7AJGybDgBgP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Anthology</div>
+                                    <div class="artist">OVERWERK</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Truth and Malice</div>
@@ -324,10 +331,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUCAwYBAAj/xAA1EAACAQIEBAMGBgEFAAAAAAABAgMEEQASITEFIkFhE1FxFCMyQlKBkZKhsdHwYiQzgsHx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAMEAQIF/8QAIREAAgIBBAIDAAAAAAAAAAAAAAECAxEEEiExEzIiQVH/2gAMAwEAAhEDEQA/APnKKmiI5vjtgmDhUUzN4kix8pIZtrjYYJp4FvdlwcYYAzSKr+ExyRq7XuRa5J8hcad/XDZLdwhfryZwcOdZNjhhw3g/jJM7Acikj1/j+cNhTtJCcw7nNb9MaDgqxUEEiMRmlQo+23X01G+Ob5R08N75KtBUtRbiziKMTHSQNHbKVb/Lob7YGn4eDdsp7d8OuJcKyVbSRlmRz8v97j8cRAWmVRWXy3tzDVNNCPMdsNhJNZfRLfW6puCfQlp+H5hzAf8ALHPYN+UYa+1eFWMkgC5WKFW1Fxv9sGNTxSHNGkuU/S+mKFXW1wTuya7BI723G3y4NmgZkpucf7Z8/ra+FFJUwuRz5X+ltMOqRlmhELEK6klGY2Bva4vsNhb7+eJE8FMnkIhlaIpHy5GIv1sL/v8Azgc1XvnXM+x6Dax74NqOH1EcYhamnWW2d/dsCPIfrf79sE0vAZq60kcTK6q3iZlN1Uqbn0B/e3TXLK1a/kZCbh6sXxyvJECrMuVhbMvTW/8AexxHj9CrRK0hbLsGy9emnlbDFuHzLOnssUmVTccjG5027aD9T1w5no5lpc1RD/pXF8rggsOqg9SNRf74pprhGGwROUpS3GIemgbJmHyRg8tz8K/jiJppnswLgdLYOrPdVhkjjLZjz9BY3sAP29MUI093Ikdbtex9BjjxJds3yNmZEJ77dsFQSTJZVlOT/LXE46WSojsobNrzKpIBsNL7Ed8FR0ns7zFhLHEi3zK2rEb26n7+WJ1ka2jS0lfUCmhVpQ2VBbNY20wUOKVCi1+vy6YTU1bH4SiMnlVSPFly3JA6akbHBYqImuVmTnGmZ9j0sRp/5h6kea6pZGEPFKhCGW35RhfxrjtaZYwzDJl/7Ol8UyVkNnHiozpb4yUBvsN/O2PQRrU1tN7UvLKRHlRr5SSbG4tYC4Nr4yVjxwd01OMssAbitVoco/KNL44a+oY3dObuuB5ZPArJGzBolYhPF+LKDpfpmta/TTEJXeJgqU0u1znk1ucL8kv0s2RBqaqJp5Z1mVrDKEAPKTax9BfDukZJ4yc3y6OjDU9dMcqaWCaFUaNVU/Ry2310xLh9MtJSeHGzsq3IzWNtcCBtMU18QFWVkSSZdCX0Hh9r7E9u+KlpjIL0pEiXtmXQgg9R0xo3OWV7AXXY9RiN9b+eDAZF9NQQwqXqkaRrWCpsp79vwGGKRxVNAkvhN4S3IXMNbXta3odMRkdszJfkdWDDzGK6anipqbJGrZC4OUuxtp010wY5ABoeIR1dV7NVQBcpvHmJzLrt0NwDh4wJOkA/AjALRJIRy5bD5NN9/wC74MaomuffSfmxmH9A8H//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAYDBQcIAv/EADcQAAIBAgQDBQYEBgMAAAAAAAECAwQRAAUSIQYTMSJBUWFxFDKBkaHwByNCUhUkMzSS0aKxwf/EABoBAAIDAQEAAAAAAAAAAAAAAAMFAQIEAAb/xAArEQABBAEBBAoDAAAAAAAAAAABAAIDEQQSBRMVMSEzUVJTYYGhweFxsdH/2gAMAwEAAhEDEQA/AMfpmuq9PEffwxeUdHXSBVigmVW66lsLed+7FHCuqJ7kFrHoSPM/Hp88dOp1HXG+NpkvpSPPyW4Wkht3flyr+rBs6yGoyySWMJJL2A6siage623r9MW9DQZSmT0mqaGWrKgypU5ZUakJF2UspsQNluN9ri22Nmb9VyQ1vDHhdwN8FMB7yX8ZbfVe/wBLBOLcvpYailbJZxWxyRkSinoJqcRsDcXDkkkgkbftv34XzDVh/wC1qfL8o46XcG564jN/E4ncHtVeMDw/f6XNM/OiGqSGWJe7WhW/f1OIBKCPfUet/wDWNd/GO/8AB8tsTqFUSP8ABsZMIltuL/8AnljPJbHVadYTmZMIl01aIgC8prgbA/f34Y6Vhk7W1sc4wQ2ofaRUU+8hhMHM/NA0316P2b2v3kEY3qCsAI3xbEdz9Et240u3fr8JmeJnpwyi9uvp5YruaiKdXdg/La08gKo1W8r4o6yqVquRnXRHfoLY1ahdJHuTVosuN8RGQXxEsiaNWo7joR/1gRplLG7BfU4kOCqYSlb8V152U0GkA6Kgk/4EX+uMtMTX6gY1HjsippaBQ6r/ADA7RAsLqRff1v8ADCFU0phqJofypeU7JzIW1o9iRdT3g9Qe8YX5LgHr1uyGkYwH5/apYRpU2vt02vtjWI8wIPUnGRwZnSlheKZFJAHuk38SAfIePXDbHxBTjrTVe23urt/y9PngMLnNtHzIBLp8r+FpeU50YrWazd3TA2ZV0lXO8jsdRJv3bdRhOiz2nUrohqi2kmxVUAPgSTtgTMuJaoqi0lGiMB2jIS4PgVIt6/Hutgmt5NgLIMNtUU9NXy+zqpF9uo+mPHPLNt3+uF7I+JqSSErmdM9NIv64wZFO/luD/rFjFxJlS/0KWuqGHgihfnfAzNIOQRBgNcoeJklmpoVW+znp4WwtNQy32v572xFxJn+eVMsfspFHGr30IgYW8CWBv9nbFNVcS8QyTFk5cS2HZSnS3Tf3gT1xllbK91ik2xYmRRBqQPZI2Y82Ust7rpNz473+GCoSEbYyKwbZkcg28vliNWIU2ttvglNk2J2wdE0hG0VFXZnmdPSUUtXUzyczQDKFZQql2K3NtgpawtfTtc2xdVvBmdUdR7BPQZvFyojJy0gdlAKhms63U7EXUH3jp6m2KnLaqoy+shqqGd6ephJMcqWLKSCpIuD3E/PDWOPuL3Lo/EdayTXLqyRFepPZBSy9T7tvoMRZVSwIJ4M+yehllmhzaCmplXmTTUnZjLldILuPe7Y7N7i52FjZcpeJ81askaCuqE1arFWsAOl9I2+74Ys44oz/ADmgWjzfN6mspmcDlyKgHZO26qD88UcNHBG90jCtY7rscda4CkA1bXNZaqrqmWEF0YytcHyPjvj3SV88kOpK6osT0aZrjywa0KOxVh1G57+uIGRInZURQoPTSMTa5f/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">We Swarm</div>
-                                    <div class="artist">The Glitch Mob</div>
+                                    <div class="name">The Line</div>
+                                    <div class="artist">JNATHYN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Combat Ready</div>
+                                    <div class="artist">Daniel Deluxe</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -335,20 +349,6 @@
                                 <div class="infos">
                                     <div class="name">Venom</div>
                                     <div class="artist">Warriyo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAwEBAQEBAAAAAAAAAAAAAgMEAQAFBgj/xAAlEAACAQQCAAcBAQAAAAAAAAAAAQIDBBESBSETFBUiMUFRMmH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMEAAX/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDESESMf/aAAwDAQACEQMRAD8A/P8Ag2JgSNB6wcUMSAiGjikYjIIdFCYD4AGaCUTsGo04GHkHAwZ2Qk93o2Iwdxth57fW8sbfSUI4ua6pbbN9rPyo4y/zKxlvA+347xa6pef46GaMK29S41gtnFaZx/a27X1rLvoVtbhSMuE0B8Cq14nxdF6lxFLaMJPxLpLG23TaTWVr2vraPzkkpPaKfays4fWDtCno4LB0EHg7R1E+dgxi9wiDGqRRmGElnRqZqkLTPQ4nib3lfOen0I1vKUJXVfatTp6Uo/1P3SWUvvGcZX6gcX0Z2CYMppElJllIVlq3rKYmgphZENaPlkxkWJQSNGHhKRTFldneXFlOpOyuK9vOrB0pyozcHKDabi2u8Npdf4QxGIDSY/pj6ftxr8fhbRl8EFMopdAaK12OLL4s3IqLCJ4blYf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Astrid</div>
-                                    <div class="artist">Bad Blood</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAwUCBAcAAQYI/8QALRAAAgEDAgUDAwQDAAAAAAAAAQIDAAQRBSEGEjFBURMiYQcUIxVxgZEyQvD/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQAAv/EAB8RAAICAgIDAQAAAAAAAAAAAAABAhEDEjFBEyEiUf/aAAwDAQACEQMRAD8A+Vqmq10KPGhboN+mB3phw3RxV8/tvU+UeRV21kntfXWJjGZY2gkGAcqeo3G3Tr1prBJM8ct7I83PE8MjuHjX8i8wjIQjfAx27NnqMCxey/TzjKPihOtO572ZORLeRlgjSRI0ZEyokXEg2HQ5OPHbFKJBWCmuiuwqNEeoURiJJTzhlZv1u0a3Sd5VYsFg5Q+wPTm2/ukaUz025nsbi3u7clJY25lbsSO37eR81zJWqF5OD3Gi8M3vFfFMkcPtMjGV5XjwEUbZKEd9h+4O1abrvDvDGg6X9tqWvaVaarHyQgXIWWX0c+1DGCCoxj3dsZ6dM/s+JdU0fgBbuG45b6/mkt7aZciRE5i0smckZyAowARzE+DWcy87OzuSzsSzMxJJJ7k+am8csndJE3jcuR9xPaWlr6RtpVmlkaR5GjkDoBze0DHke7PhsdjXmZBV3TQou4knVjC7BXVdiQfHzUdUs3sdQubS4BDwyFD/AB3/AKp8fn5bGRWrpixx1odFkoRphQiSVbhk9hDDO22/Sqa0aM9KzBJGmaHAOIvpv9lbqG1HRLp5/TUe57aQbt8kPn+CK8yLHmwQMjqCK64O1m50HXrLUbFys8EinAOA653Q/DDY9a+kuH24G4u06PUbrS7e1vJB+SGCTADjYrjH/DepJTeFv1aZM8mjME4a4cudW1aKC1QZT8ssjbLEg3LsTsBtSz6j3Vpfcaatc6bKs1q8o5ZF/wAXIRQxHwWBI81s31I1/hO30a70LT3hgjwWMVmWOZF/1kIGGGcbHA2zWEaj+nfYwfbtO16wzNnCxp8Yxknp3xXWNuc92q6DCWzsSvQqJJ3odUlMTgoqGgiiLWCy3E5XpTSw1W7sfV+znaEyryOV2JHjPakqHpRQaDSfJPKKLMkvtwNh4Hag3l1JcOGlbJVeUbYwBQmJoTmsdRiDY1DNSao0RyP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Crazy</div>
-                                    <div class="artist">Creo</div>
                                 </div>
                             </div>
                         </div>
@@ -427,7 +427,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2025, 19:18:17 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2025, 20:27:57 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
