@@ -6,7 +6,7 @@
 
 <a href="https://elouan.xyz/"><img alt="Website Status" src="https://img.shields.io/website?url=http%3A//elouan.xyz/"></a>
 
-**Hi, I’m Elouan Grimm, I'm 13, and I love messing around with tech.** I helped [Epimetheus Games](https://epimetheusgamesogpc.itch.io/) out with their first two games, [EyeSore](https://epimetheusgamesogpc.itch.io/eyesore) and [Project Prometheus](https://epimetheusgamesogpc.itch.io/projectprometheus) (you can check em out on [itch](https://epimetheusgamesogpc.itch.io/)). I have been helping out with [@MoeBazziGIT](https://github.com/MoeBazziGIT)'s [Tidy Tab Groups project](https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf) (Hey! Join the Discord [HERE](https://discord.com/invite/aBdAfNfGEv)!!!) I live in Cape Town and speak French and English fluently. I love photography and I take pictures with my crappy phone and post them on [Insta](https://www.instagram.com/elouangrimm). Cheers!
+**Hi, I’m Elouan Grimm, I'm 13, and I'm a terminally online person.** I really love Bluesky and Open Source and Chrome Extensions and plain HTML5 websites and the list goes on. I recently moved to Cape Town, am fluent in French and American English, and I enjoy [photography](https://elouan.xyz/photos/) (with my crappy phone). Hit me up on Bluesky or by email (I will respond ASAP)!
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/).
 
@@ -15,7 +15,7 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 <p align="center">
   <a href="https://elouangrimm.github.io">
-    <img src="https://skillicons.dev/icons?i=html,css,js,htmx,py,md,discord,bots,gmail,instagram,ps,godot,replit,vscode,github,git,linux,raspberrypi&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,md,discord,bots,gmail,godot,vscode,github,git,linux,raspberrypi&perline=7" />
   </a>
 </p>
 
@@ -27,8 +27,6 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 #### [🦋 Bluesky](https://bsky.app/profile/elouan.xyz/)
 
 #### [💬 Discord](https://discord.com/users/939697576419131462)
-
-#### [📸 Insta](https://www.instagram.com/elouangrimm)
 
 #### [💬 WhatsApp](https://wa.me/19712661720)
 
