@@ -2,11 +2,9 @@
 
 <a href="https://github.com/elouangrimm/"><img src="https://komarev.com/ghpvc/?username=elouangrimm&label=Profile%20views&color=0e75b6&style=flat" alt="elouangrimm"/></a>
 
-<a href="https://www.reddit.com/user/elouangrimm/"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/elouangrimm?style=flat"></a>
+<a href="https://elouan.xyz/"><img alt="Website Status" src="https://img.shields.io/website?url=https%3A//elouan.xyz/"></a>
 
-<a href="https://elouan.xyz/"><img alt="Website Status" src="https://img.shields.io/website?url=http%3A//elouan.xyz/"></a>
-
-**Hi, I’m Elouan Grimm, I'm 13, and I'm a terminally online person.** I really love Bluesky and Open Source and Chrome Extensions and plain HTML5 websites and the list goes on. I recently moved to Cape Town, am fluent in French and American English, and I enjoy [photography](https://elouan.xyz/photos/) (with my crappy phone). Hit me up on Bluesky or by email (I will respond ASAP)!
+**Hi, I'm Elouan Grimm, I'm 14, and I'm a nerd.** I really love Open Source, Bluesky, plain HTML5 websites, and the list goes on. I currently live in Saint Nazaire, France, am fluent in French and English, and other than tech, I enjoy [photography](https://elouan.xyz/photos/) (with my DSLR), ♪｡singing˚♬, and commas :D ! Hit me up on Bluesky, Discord, or by email (I will respond ASAP)!
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/).
 
@@ -15,7 +13,7 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 <p align="center">
   <a href="https://elouangrimm.github.io">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,md,discord,bots,gmail,godot,vscode,github,git,linux,raspberrypi&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,discord,bots,gmail,godot,github,git,windows,linux,raspberrypi&perline=7" />
   </a>
 </p>
 
@@ -28,11 +26,11 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 
 #### [💬 Discord](https://discord.com/users/939697576419131462)
 
-#### [💬 WhatsApp](https://wa.me/19712661720)
+<!--#### [💬 WhatsApp](https://wa.me/19712661720)-->
 
-#### [✉︎ Email](mailto:elouangrimm@gmail.com)
+#### [✉︎ Email](mailto:contact@elouan.xyz)
 
-#### [🤖 Reddit](https://www.reddit.com/user/elouangrimm/)
+<!--#### [🤖 Reddit](https://www.reddit.com/user/elouangrimm/)-->
 </details>
 
 <!--
