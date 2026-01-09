@@ -28,7 +28,7 @@ jobs:
           user: elouangrimm
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Johannesburg
+          config_timezone: Europe/Paris
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 100
