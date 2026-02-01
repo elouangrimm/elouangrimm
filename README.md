@@ -4,7 +4,7 @@
 
 <a href="https://elouan.xyz/"><img alt="Website Status" src="https://img.shields.io/website?url=https%3A//elouan.xyz/"></a>
 
-**Hi, I'm Elouan Grimm, I'm 14, and I'm a nerd.** I really love Open Source, Bluesky, plain HTML5 websites, and the list goes on. I currently live in Saint Nazaire, France, am fluent in French and English, and other than tech, I enjoy [photography](https://elouan.xyz/photos/) (with my DSLR), ♪｡singing˚♬, and commas :D ! Hit me up on Bluesky, Discord, or by email (I will respond ASAP)!
+**Hi, I'm Elouan Grimm, and I'm a nerd.** I really love Open Source, Bluesky, plain HTML5 websites, and more. I currently live in Saint Nazaire, France, am fluent in French and English, and other than tech, I enjoy photography (with my DSLR), and ♪｡singing˚♬! Hit me up on Bluesky, Discord, or by email (I will respond ASAP)!
 
 DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/).
 
@@ -49,6 +49,8 @@ DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131
 <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouangrimm&show_icons=true&locale=en&layout=compact&theme=dark" alt="d3ward" /></p>
 </details>
 -->
+
+<br/>
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
