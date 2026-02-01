@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Elouan Grimm!</h1>
+<h1 align="center">Hey! I'm Elouan Grimm.</h1>
 
 <a href="https://github.com/elouangrimm/"><img src="https://komarev.com/ghpvc/?username=elouangrimm&label=Profile%20views&color=0e75b6&style=flat" alt="elouangrimm"/></a>
 
@@ -6,16 +6,12 @@
 
 **Hi, I'm Elouan Grimm, and I'm a nerd.** I really love Open Source, Bluesky, plain HTML5 websites, and more. I currently live in Saint Nazaire, France, am fluent in French and English, and other than tech, I enjoy photography (with my DSLR), and ♪｡singing˚♬! Hit me up on Bluesky, Discord, or by email (I will respond ASAP)!
 
-DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out some things I did on my [gh](https://github.com/elouangrimm/).
+DM me on Discord at [**@elouangrimm**](https://discord.com/users/939697576419131462) or check out my [website](https://elouan.xyz)!
 
 <br>
 <br>
 
-<p align="center">
-  <a href="https://elouangrimm.github.io">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,discord,bots,gmail,godot,github,git,windows,linux,raspberrypi&perline=7" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,discord,bots,gmail,godot,github,git,windows,linux,raspberrypi&perline=7" />
 
 <br>
 
