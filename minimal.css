@@ -1,0 +1,437 @@
+:root {
+    /* b&w */
+    --stone-050: #fafaf9;
+    --stone-100: #f5f5f4;
+    --stone-200: #e7e5e4;
+    --stone-300: #d6d3d1;
+    --stone-400: #a8a29e;
+    --stone-500: #78716c;
+    --stone-800: #292524;
+    --stone-900: #1c1917;
+    --stone-950: #0c0a09;
+
+    /* colors */
+    --blue: #3b82f6;
+    --green: #22c55e;
+    --indigo: #6366f1;
+
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* --- Global Styles --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 0 !important;
+    /* Force Sharp Edges */
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    /* Prevents scrollbars on the body */
+}
+
+body {
+    background-color: var(--stone-950);
+    color: var(--stone-200);
+    font-family: var(--font-sans);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    line-height: 1.6;
+}
+
+/* --- Main Container & States --- */
+.container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border: 3px dashed var(--stone-400);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.content-wrapper {
+    max-width: 600px;
+    /* Constrains content width but not the drop area */
+    width: 90%;
+}
+
+.container.dragover {
+    border-color: var(--blue);
+    background-color: var(--stone-900);
+}
+
+.container.file-loaded {
+    border-style: solid;
+    border-color: var(--stone-800);
+}
+
+input[type="file"] {
+    display: none;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--stone-100);
+    margin-bottom: 0.25rem;
+}
+
+h1,
+#subtitle {
+    transition: opacity 0.3s ease-in-out;
+}
+
+h1.fade-out,
+#subtitle.fade-out {
+    opacity: 0;
+    pointer-events: none;
+}
+
+h2 {
+    font-size: 1.1rem;
+    color: var(--stone-400);
+    margin-bottom: 2rem;
+    font-weight: normal;
+}
+
+#funny-subtitle {
+    color: var(--stone-100);
+    font-size: 1.5rem;
+    font-weight: 600;
+    transition: opacity 0.3s ease-in-out;
+    margin-bottom: 2rem;
+}
+
+/* --- UI Controls & Buttons --- */
+.action-btn {
+    display: inline-block;
+    margin: 10px 5px;
+    padding: 12px 24px;
+    border: none;
+    background-color: var(--blue);
+    color: var(--stone-050);
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.2s;
+    text-decoration: none;
+}
+
+.action-btn:hover {
+    background-color: #5193f8;
+    transform: translateY(-2px);
+}
+
+.action-btn.secondary {
+    background-color: var(--stone-800);
+    color: var(--stone-200);
+}
+
+.action-btn.secondary:hover {
+    background-color: var(--stone-500);
+}
+
+#engine-loader {
+    font-style: italic;
+    color: var(--stone-500);
+    margin-top: 1rem;
+    height: 1em;
+    /* Reserve space to prevent layout shift */
+}
+
+/* --- Conversion Controls --- */
+#conversion-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.conversion-label {
+    margin-bottom: -0.5rem;
+    /* Reduce gap between label and buttons */
+    font-size: 1rem;
+    color: var(--stone-300);
+}
+
+.format-button-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.format-btn {
+    padding: 10px 20px;
+    border: 1px solid var(--stone-500);
+    background-color: var(--stone-800);
+    color: var(--stone-100);
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.2s;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.format-btn:hover {
+    background-color: var(--stone-500);
+    transform: translateY(-1px);
+}
+
+/* --- File Preview & Font Preview --- */
+.file-preview {
+    margin: 20px 0;
+    max-width: 100%;
+}
+
+.file-preview img,
+.file-preview video,
+.file-preview canvas {
+    max-width: 100%;
+    max-height: 250px;
+    border: 1px solid var(--stone-800);
+    background-color: var(--stone-900);
+}
+
+.file-preview p {
+    margin-top: 10px;
+    color: var(--stone-300);
+    word-break: break-all;
+}
+
+.preview-title {
+    font-weight: 600;
+    color: var(--stone-100);
+    margin-bottom: 10px;
+}
+
+/* --- Progress & Finished States --- */
+#progress-container {
+    width: 100%;
+    margin-top: 1.5rem;
+}
+
+progress {
+    width: 100%;
+    height: 12px;
+    -webkit-appearance: none;
+    appearance: none;
+    border: none;
+    background-color: var(--stone-800);
+}
+
+progress::-webkit-progress-bar {
+    background-color: var(--stone-800);
+}
+
+progress::-webkit-progress-value {
+    background-color: var(--green);
+    transition: width 0.3s ease-in-out;
+}
+
+#progress-text {
+    display: block;
+    margin-top: 0.5rem;
+    color: var(--stone-300);
+}
+
+#finished-state {
+    margin-top: 1rem;
+}
+
+#finished-text {
+    font-size: 1.25rem;
+    color: var(--green);
+    margin-bottom: 1rem;
+}
+
+/* --- Resize Controls --- */
+#resize-controls {
+    width: 100%;
+    max-width: 400px;
+    background-color: var(--stone-900);
+    border: 1px solid var(--stone-800);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.resize-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#resize-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: opacity 0.3s, pointer-events 0.3s;
+}
+
+#resize-inputs.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.resize-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.input-group label {
+    font-size: 0.8rem;
+    color: var(--stone-400);
+    margin-bottom: 4px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 8px;
+    background-color: var(--stone-950);
+    border: 1px solid var(--stone-500);
+    color: var(--stone-100);
+    font-family: inherit;
+}
+
+.input-group span {
+    font-size: 0.8rem;
+    color: var(--stone-500);
+    text-align: right;
+    margin-top: 2px;
+}
+
+.resize-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 25px;
+    /* Align with inputs */
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: opacity 0.2s;
+    padding: 5px;
+}
+
+.icon-btn.active {
+    opacity: 1;
+}
+
+.icon-btn:hover {
+    transform: scale(1.1);
+}
+
+/* Checkbox Styling */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-left: 28px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--stone-200);
+    user-select: none;
+}
+
+.checkbox-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.checkmark {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 18px;
+    width: 18px;
+    background-color: var(--stone-800);
+    border: 1px solid var(--stone-500);
+    transform: translateY(-50%);
+    transition: background-color 0.2s;
+}
+
+.checkbox-container:hover input~.checkmark {
+    background-color: var(--stone-500);
+}
+
+.checkbox-container input:checked~.checkmark {
+    background-color: var(--blue);
+    border-color: var(--blue);
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.checkbox-container input:checked~.checkmark:after {
+    display: block;
+}
+
+.checkbox-container .checkmark:after {
+    left: 6px;
+    top: 2px;
+    width: 3px;
+    height: 8px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+/* --- Footer --- */
+#app-footer {
+    margin-top: 2rem;
+    color: var(--stone-500);
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+
+#app-footer a {
+    color: var(--stone-500);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+#app-footer a:hover {
+    color: var(--stone-300);
+    text-decoration: underline;
+}
+
+.original-format {
+    opacity: 0.6;
+    order: -1;
+    /* Move to first position */
+}
